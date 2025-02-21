@@ -1,19 +1,19 @@
 ## Question 1 
-n = float(input("Enter your temperature: "))
+# n = float(input("Enter your temperature: "))
 
-def celtoF(n):
-    temp = 9/5*n +32 
-    print(temp)
-celtoF(n)
+# def celtoF(n):
+#     temp = 9/5*n +32 
+#     print(temp)
+# celtoF(n)
 
 ##  Question 2 
 
-password  = str(input("Enter your password: "))
-def reverseF(password):
-    passwordReversed = password[::-1]
-    print(passwordReversed)
+# password  = str(input("Enter your password: "))
+# def reverseF(password):
+#     passwordReversed = password[::-1]
+#     print(passwordReversed)
 
-reverseF(password)
+# reverseF(password)
     
 
 ## Question 3 
